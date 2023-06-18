@@ -24,6 +24,6 @@
     "url": "https://github.com/yanguoyu/renovate-test/issues"
   },
   "devDependencies": {
-    "eslint": "8.42.0"
+    "eslint": "8.43.0"
   }
 }
