@@ -9,6 +9,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "private": true,
   "author": "",
   "license": "ISC",
   "dependencies": {
